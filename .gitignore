@@ -24,4 +24,5 @@ go.work
 # Binaries
 src/shm
 shm
+src/*.log
 
