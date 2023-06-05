@@ -1,2 +1,2 @@
 # shellmaker
-Creates a shell
+Creates and runs a full shell
